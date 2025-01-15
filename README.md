@@ -89,6 +89,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📞 Contact
 
-[Your Name] - [Your Email]
+[Sapna Sarkar] - [sapnapks1@gmail.com]
 
-Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
+Project Link:[https://github.com/sapna008/Image_to_text_ReactProject.git](https://github.com/sapna008/Image_to_text_ReactProject.git)
